@@ -1,4 +1,4 @@
-# Product Name
+# NFe
 > Módulo Emissor de NFe
 
 [![NPM Version][npm-image]][npm-url]
@@ -11,7 +11,7 @@ One to two paragraph statement about your product and what it does.
 
 ## Installation
 
-OS X & Linux:
+Windows:
 
 ```sh
 npm install my-crazy-module --save
