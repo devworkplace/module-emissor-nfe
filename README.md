@@ -22,7 +22,7 @@ Electronic invoice generator based on WebISS® - Version: 5.0.14.142
 
 ## To try this sample
 
-- Clone the repository
+  A) Clone the repository
 
     ```bash
     git clone https://github.com/devworkplace/mode-emissor-nfe.git
