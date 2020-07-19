@@ -33,12 +33,14 @@ Electronic invoice generator based on WebISS® - Version: 5.0.14.142
   - File -> Open -> Project/Solution
   - Select `QnABot.sln` file
   - Define `NFAppWeb` with Project Start
+  - Execute SQLServer script database `SISPEC_DOC\NFPlamed.sql`
   - Press `F5` to run the project
+  
+  C) You will need to register WEBISS (homologation environment) - get Documentation WebISS® 
 
 ## Release History
 
-* 0.0.1
-* Work in progress
+* 0.0.1 in progress
 
 ## Meta
 
