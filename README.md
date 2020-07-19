@@ -5,7 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+Electronic invoice generator based on WebISS® - Version: 5.0.14.142
 
 ![](header.png)
 
@@ -14,14 +14,9 @@ One to two paragraph statement about your product and what it does.
 Windows:
 
 ```sh
-npm install my-crazy-module --save
+Open Project in VSStudio and execute (app web)
 ```
 
-Windows:
-
-```sh
-edit autoexec.bat
-```
 
 ## Usage example
 
@@ -45,7 +40,7 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – saabarbosa@gmail.com
+Your Name – [@saabarbosa](https://twitter.com/dbader_org) – saabarbosa@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
