@@ -44,6 +44,6 @@ Electronic invoice generator based on WebISS® - Version: 5.0.14.142
 
 ## Meta
 
-Your Name – [@saabarbosa](https://twitter.com/dbader_org) – saabarbosa@gmail.com
+Your Name – [@saabarbosa](https://twitter.com/saabarbosa) – saabarbosa@gmail.com
 
-[https://github.com/devworkplace/module-emissor-nfe](https://github.com/dbader/)
+[https://github.com/devworkplace/module-emissor-nfe](https://github.com/saabarbosa/)
